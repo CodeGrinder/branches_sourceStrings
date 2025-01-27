@@ -1,0 +1,6 @@
+filters:
+- filter_type: file
+  file_format: PO
+  source_file: source/rsthecom-project_template-rsthecom-pot_en.po
+  source_language: en
+  translation_files_expression: 'translations/<lang>/rsthecom-project_template-rsthecom-pot_<lang>.po'
