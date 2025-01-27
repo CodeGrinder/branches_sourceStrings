@@ -3184,7 +3184,3 @@ msgid ""
 msgstr ""
 "You will be able to change this information at any time via the LTK Creator "
 "iOS or LTK Android app."
-
-
-
-
