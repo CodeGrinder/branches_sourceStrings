@@ -1,0 +1,3218 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: root\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <URL>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+msgid " your video."
+msgstr " your video."
+
+msgid ""
+"\" -- \" shows when a brand supports variable commission rates. The total "
+"commission actually paid out may differ depending on the specific products "
+"that were purchased."
+msgstr ""
+"\" -- \" shows when a brand supports variable commission rates. The total "
+"commission actually paid out may differ depending on the specific products "
+"that were purchased."
+
+msgid "{{ sizeText }}"
+msgstr "{{ sizeText }}"
+
+msgid "{{ updateText }}"
+msgstr "{{ updateText }}"
+
+msgid ""
+"%{ emailMessage } %{ emailAddress }. Please check your email and confirm the"
+" change to the email address associated with your LTK Creator account. If "
+"you did not receive an email, please contact us through %{ faqAndTechSupport"
+" }."
+msgstr ""
+"%{ emailMessage } %{ emailAddress }. Please check your email and confirm the"
+" change to the email address associated with your LTK Creator account. If "
+"you did not receive an email, please contact us through %{ faqAndTechSupport"
+" }."
+
+msgid ""
+"%{ emailMessage } %{ emailAddress }. Please check your email and confirm "
+"this change to your PayPal account. If you have any questions about your "
+"account please submit a ticket through %{ faqAndTechSupport }."
+msgstr ""
+"%{ emailMessage } %{ emailAddress }. Please check your email and confirm "
+"this change to your PayPal account. If you have any questions about your "
+"account please submit a ticket through %{ faqAndTechSupport }."
+
+msgid ""
+"%{ emailMessage } %{ emailAddress }. Please check your email for a link to "
+"change your password."
+msgstr ""
+"%{ emailMessage } %{ emailAddress }. Please check your email for a link to "
+"change your password."
+
+msgid ""
+"%{ emailMessage } The email address associated with your LTK Creator account"
+" has been successfully updated to %{ emailAddress }."
+msgstr ""
+"%{ emailMessage } The email address associated with your LTK Creator account"
+" has been successfully updated to %{ emailAddress }."
+
+msgid ""
+"%{ thankYou } Your PayPal account information has been updated to: %{ "
+"emailAddress }."
+msgstr ""
+"%{ thankYou } Your PayPal account information has been updated to: %{ "
+"emailAddress }."
+
+#. label denoting the total product count for a folder. "10 products"
+msgid "%{count} product"
+msgid_plural "%{count} products"
+msgstr[0] "%{count} product"
+msgstr[1] "%{count} products"
+
+msgid "%{successCount} of %{selectedFiles} uploads complete."
+msgstr "%{successCount} of %{selectedFiles} uploads complete."
+
+msgid "0 results for"
+msgstr "0 results for"
+
+msgid "0 Results for"
+msgstr "0 Results for"
+
+msgid "0 results matching for"
+msgstr "0 results matching for"
+
+msgid "6 digit code is required"
+msgstr "6 digit code is required"
+
+msgid "A - Z"
+msgstr "A - Z"
+
+msgid "A confirmation email was sent to"
+msgstr "A confirmation email was sent to"
+
+msgid "A folder with that name already exists"
+msgstr "A folder with that name already exists"
+
+msgid "A high number of engaged followers on your social media channels."
+msgstr "A high number of engaged followers on your social media channels."
+
+msgid "A maximum of 10 files can be added to a post"
+msgstr "A maximum of 10 files can be added to a post"
+
+msgid ""
+"A public social media account is required to be eligible for LTK Creator."
+msgstr ""
+"A public social media account is required to be eligible for LTK Creator."
+
+msgid "A public social media profile."
+msgstr "A public social media profile."
+
+msgid "A required field is empty. Please double check your application."
+msgstr "A required field is empty. Please double check your application."
+
+msgid "A smarter way to search!"
+msgstr "A smarter way to search!"
+
+msgid "A user already exists with this email address. Email must be unique."
+msgstr "A user already exists with this email address. Email must be unique."
+
+msgid "About you"
+msgstr "About you"
+
+msgid "About You"
+msgstr "About You"
+
+msgid "About you & your content"
+msgstr "About you & your content"
+
+msgid "Accepting terms is required"
+msgstr "Accepting terms is required"
+
+msgid "access level"
+msgstr "access level"
+
+msgid "Access Level"
+msgstr "Access Level"
+
+msgid "Access level is required"
+msgstr "Access level is required"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Account connected!"
+msgstr "Account connected!"
+
+msgid "Account details"
+msgstr "Account details"
+
+msgid "Active Links"
+msgstr "Active Links"
+
+msgid "Add a photo or video to start adding products"
+msgstr "Add a photo or video to start adding products"
+
+msgid "Add a review in the LTK Creator app"
+msgstr "Add a review in the LTK Creator app"
+
+msgid "Add another category"
+msgstr "Add another category"
+
+msgid "Add another location"
+msgstr "Add another location"
+
+msgid "Add another platform"
+msgstr "Add another platform"
+
+msgid "Add background image"
+msgstr "Add background image"
+
+msgid "Add caption"
+msgstr "Add caption"
+
+msgid "Add Caption"
+msgstr "Add Caption"
+
+msgid "Add content type"
+msgstr "Add content type"
+
+msgid "Add Description (Optional)"
+msgstr "Add Description (Optional)"
+
+msgid "Add folder"
+msgstr "Add folder"
+
+msgid "Add Instagram manually"
+msgstr "Add Instagram manually"
+
+msgid "Add more"
+msgstr "Add more"
+
+msgid "Add new contributor"
+msgstr "Add new contributor"
+
+msgid "Add photo or video"
+msgstr "Add photo or video"
+
+msgid "Add photos or videos"
+msgstr "Add photos or videos"
+
+msgid "add product"
+msgstr "add product"
+
+msgid "Add products"
+msgstr "Add products"
+
+msgid "Add profile image"
+msgstr "Add profile image"
+
+msgid "Add publishing platform"
+msgstr "Add publishing platform"
+
+msgid "Add region of influence"
+msgstr "Add region of influence"
+
+msgid "Add to"
+msgstr "Add to"
+
+msgid "Add to folder"
+msgstr "Add to folder"
+
+msgid "add to post"
+msgstr "add to post"
+
+msgid "Add to post"
+msgstr "Add to post"
+
+msgid "Additional content type"
+msgstr "Additional content type"
+
+msgid "Additional publishing platform"
+msgstr "Additional publishing platform"
+
+msgid "Additional region of influence"
+msgstr "Additional region of influence"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "All caps"
+msgstr "All caps"
+
+msgid "All folders"
+msgstr "All folders"
+
+msgid "All my saved products"
+msgstr "All my saved products"
+
+msgid "All Saved"
+msgstr "All Saved"
+
+msgid "All saved products"
+msgstr "All saved products"
+
+msgid "AM/PM"
+msgstr "AM/PM"
+
+msgid "Amazon Linking"
+msgstr "Amazon Linking"
+
+msgid "An email was sent to"
+msgstr "An email was sent to"
+
+msgid "An engaged and growing audience"
+msgstr "An engaged and growing audience"
+
+msgid "An error has occurred, please <span>Try Again</span>"
+msgstr "An error has occurred, please <span>Try Again</span>"
+
+msgid ""
+"An error has occurred. Your email address was not changed. This email is "
+"already in use. Please use a different email."
+msgstr ""
+"An error has occurred. Your email address was not changed. This email is "
+"already in use. Please use a different email."
+
+msgid ""
+"An error occurred while processing your confirmation. Please enter your "
+"account information to receive a new confirmation link."
+msgstr ""
+"An error occurred while processing your confirmation. Please enter your "
+"account information to receive a new confirmation link."
+
+msgid ""
+"An error occurred while processing your confirmation. Please re-submit your "
+"email change request to receive a new confirmation link."
+msgstr ""
+"An error occurred while processing your confirmation. Please re-submit your "
+"email change request to receive a new confirmation link."
+
+msgid "An error occurred while publishing your Post. Please try again later."
+msgstr "An error occurred while publishing your Post. Please try again later."
+
+msgid "An error occurred while saving your draft. Please try again later."
+msgstr "An error occurred while saving your draft. Please try again later."
+
+msgid "An error occurred while scheduling your post. Please try again later."
+msgstr "An error occurred while scheduling your post. Please try again later."
+
+msgid "An error occurred while uploading."
+msgstr "An error occurred while uploading."
+
+msgid "An unexpected error has occurred. Please try again."
+msgstr "An unexpected error has occurred. Please try again."
+
+msgid "Analytics"
+msgstr "Analytics"
+
+msgid "Android Creators"
+msgstr "Android Creators"
+
+msgid "Any unfinished progress will be lost."
+msgstr "Any unfinished progress will be lost."
+
+msgid "Application Sent"
+msgstr "Application Sent"
+
+msgid "Application sent!"
+msgstr "Application sent!"
+
+msgid "Application Status"
+msgstr "Application Status"
+
+msgid "Apply Now"
+msgstr "Apply Now"
+
+msgid "Apply to be an LTK Creator"
+msgstr "Apply to be an LTK Creator"
+
+msgid "Apply to become an LTK Creator"
+msgstr "Apply to become an LTK Creator"
+
+msgid "Are you sure you want to delete these drafted posts?"
+msgstr "Are you sure you want to delete these drafted posts?"
+
+msgid "Are you sure you want to delete this drafted post?"
+msgstr "Are you sure you want to delete this drafted post?"
+
+msgid "Are you sure you want to delete this folder?"
+msgstr "Are you sure you want to delete this folder?"
+
+msgid "Are you sure you want to delete this scheduled post?"
+msgstr "Are you sure you want to delete this scheduled post?"
+
+msgid "Are you sure you want to delete this widget?"
+msgstr "Are you sure you want to delete this widget?"
+
+msgid "Are you sure you want to leave this page?"
+msgstr "Are you sure you want to leave this page?"
+
+msgid ""
+"Are you sure you want to leave? You have some unsaved changes that will be "
+"lost if you continue."
+msgstr ""
+"Are you sure you want to leave? You have some unsaved changes that will be "
+"lost if you continue."
+
+msgid "Are you sure you want to quit uploading media?"
+msgstr "Are you sure you want to quit uploading media?"
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "At least 4 months of consistent, quality, and original content"
+msgstr "At least 4 months of consistent, quality, and original content"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Back to all"
+msgstr "Back to all"
+
+msgid ""
+"Be as descriptive as possible—the more information you provide, the better "
+"the results will be."
+msgstr ""
+"Be as descriptive as possible—the more information you provide, the better "
+"the results will be."
+
+msgid "Beauty"
+msgstr "Beauty"
+
+msgid ""
+"Because we value you as a creator on the LTK platform, we wanted to let you "
+"know we've updated our Creator Terms of Service and Privacy Statement."
+msgstr ""
+"Because we value you as a creator on the LTK platform, we wanted to let you "
+"know we've updated our Creator Terms of Service and Privacy Statement."
+
+msgid "Become a Creator"
+msgstr "Become a Creator"
+
+msgid "Become an LTK Creator!"
+msgstr "Become an LTK Creator!"
+
+msgid ""
+"Before using this widget on Wordpress, you'll need to install our plug-in. "
+"WordPress.com is not supported."
+msgstr ""
+"Before using this widget on Wordpress, you'll need to install our plug-in. "
+"WordPress.com is not supported."
+
+msgid "Before you continue"
+msgstr "Before you continue"
+
+#. New, pre-release version of a product that is still in development and may
+#. contain bugs or unfinished features.
+msgid "Beta"
+msgstr "Beta"
+
+msgid "Blog + Social"
+msgstr "Blog + Social"
+
+msgid "Blog name"
+msgstr "Blog name"
+
+msgid "Blog URL"
+msgstr "Blog URL"
+
+msgid "Blogger"
+msgstr "Blogger"
+
+msgid "Body Shape"
+msgstr "Body Shape"
+
+msgid "Body shape is required"
+msgstr "Body shape is required"
+
+msgid "Brand & Price"
+msgstr "Brand & Price"
+
+msgid "Brand Platform"
+msgstr "Brand Platform"
+
+msgid "Brand Updates"
+msgstr "Brand Updates"
+
+msgid "Brands"
+msgstr "Brands"
+
+msgid "Bridal"
+msgstr "Bridal"
+
+msgid "Bulk Media Upload"
+msgstr "Bulk Media Upload"
+
+msgid "Bulk media upload tool usage"
+msgstr "Bulk media upload tool usage"
+
+msgid "Bulk upload content"
+msgstr "Bulk upload content"
+
+msgid ""
+"Bulk upload your content to save as drafts for publishing in the LTK Creator"
+" app."
+msgstr ""
+"Bulk upload your content to save as drafts for publishing in the LTK Creator"
+" app."
+
+msgid ""
+"By checking the box, you agree to receive marketing messages and updates "
+"sent by or on behalf of LTK using a third-party messaging platform. Consent "
+"does not impact your application. You’ll only receive messages from us if "
+"your application is approved. You can then manage your message preferences "
+"in your LTK Creator Profile. Our %{ privacyPolicy } describes how we process"
+" your personal information when we communicate with you for marketing "
+"purposes."
+msgstr ""
+"By checking the box, you agree to receive marketing messages and updates "
+"sent by or on behalf of LTK using a third-party messaging platform. Consent "
+"does not impact your application. You’ll only receive messages from us if "
+"your application is approved. You can then manage your message preferences "
+"in your LTK Creator Profile. Our %{ privacyPolicy } describes how we process"
+" your personal information when we communicate with you for marketing "
+"purposes."
+
+msgid ""
+"By checking the box, you agree to receive marketing messages and updates "
+"sent by or on behalf of LTK using a third-party messaging platform. You can "
+"manage your message preferences in your LTK Creator Profile. Our %{ "
+"privacyPolicy } describes how we process your personal information when we "
+"communicate with you for marketing purposes."
+msgstr ""
+"By checking the box, you agree to receive marketing messages and updates "
+"sent by or on behalf of LTK using a third-party messaging platform. You can "
+"manage your message preferences in your LTK Creator Profile. Our %{ "
+"privacyPolicy } describes how we process your personal information when we "
+"communicate with you for marketing purposes."
+
+msgid ""
+"By checking the box, you agree to receive marketing text messages and "
+"updates sent by or on behalf of LTK. Messages may be from automated systems "
+"and frequency will vary. Consent does not impact your application. We will "
+"only text you if your application is approved. Message and data rates may "
+"apply. You can text STOP to cancel or text HELP for additional help. See the"
+" %{ ltkSMSTerms } and the %{ privacyPolicy } for more information."
+msgstr ""
+"By checking the box, you agree to receive marketing text messages and "
+"updates sent by or on behalf of LTK. Messages may be from automated systems "
+"and frequency will vary. Consent does not impact your application. We will "
+"only text you if your application is approved. Message and data rates may "
+"apply. You can text STOP to cancel or text HELP for additional help. See the"
+" %{ ltkSMSTerms } and the %{ privacyPolicy } for more information."
+
+msgid ""
+"By checking the box, you agree to receive marketing text messages and "
+"updates sent by or on behalf of LTK. Messages may be from automated systems,"
+" and frequency will vary. Message and data rates may apply. You can text "
+"STOP to cancel or text HELP for additional help. See the %{ ltkSMSTerms } "
+"and the %{ privacyPolicy } for more information."
+msgstr ""
+"By checking the box, you agree to receive marketing text messages and "
+"updates sent by or on behalf of LTK. Messages may be from automated systems,"
+" and frequency will vary. Message and data rates may apply. You can text "
+"STOP to cancel or text HELP for additional help. See the %{ ltkSMSTerms } "
+"and the %{ privacyPolicy } for more information."
+
+msgid ""
+"By checking this box, I acknowledge that I have read the %{ privacyPolicy } "
+"and %{ cookiePolicy }."
+msgstr ""
+"By checking this box, I acknowledge that I have read the %{ privacyPolicy } "
+"and %{ cookiePolicy }."
+
+msgid "By checking this box, I agree to the %{ creator-terms }."
+msgstr "By checking this box, I agree to the %{ creator-terms }."
+
+msgid ""
+"By checking this box, I agree to the %{ terms }, and have read the %{ "
+"privacy }."
+msgstr ""
+"By checking this box, I agree to the %{ terms }, and have read the %{ "
+"privacy }."
+
+msgid ""
+"By checking this box, you agree to the %{ EULA } which govern your access to"
+" and use of LTK's Sites and Services."
+msgstr ""
+"By checking this box, you agree to the %{ EULA } which govern your access to"
+" and use of LTK's Sites and Services."
+
+msgid "By continuing, you agree to the LTK %{ terms }, and %{ privacy }."
+msgstr "By continuing, you agree to the LTK %{ terms }, and %{ privacy }."
+
+msgid ""
+"By disconnecting, your Instagram account will no longer be connected to LTK "
+"and you will not be eligible for Brand Collabs"
+msgstr ""
+"By disconnecting, your Instagram account will no longer be connected to LTK "
+"and you will not be eligible for Brand Collabs"
+
+msgid "Can't find the email?"
+msgstr "Can't find the email?"
+
+msgid "cancel"
+msgstr "cancel"
+
+#. Cancel leaving the page
+#. Cancel updating the widget
+#. Cancel deleting of post
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancel edit and close modal"
+msgstr "Cancel edit and close modal"
+
+msgid "caption saved!"
+msgstr "caption saved!"
+
+msgid "Careers"
+msgstr "Careers"
+
+msgid "Categorize your post"
+msgstr "Categorize your post"
+
+msgid "Celebrity"
+msgstr "Celebrity"
+
+msgid "Certainty: %{certainty}"
+msgstr "Certainty: %{certainty}"
+
+msgid "Change"
+msgstr "Change"
+
+msgid "Change password"
+msgstr "Change password"
+
+msgid "Change Password"
+msgstr "Change Password"
+
+#. Action text for changing the scheduled post's data
+msgid "Change schedule"
+msgstr "Change schedule"
+
+#. Accessibility label for changing the schedule of a post
+msgid "Change Schedule"
+msgstr "Change Schedule"
+
+msgid "Change Shop"
+msgstr "Change Shop"
+
+msgid "Changes you made will not be saved."
+msgstr "Changes you made will not be saved."
+
+msgid "Choose a folder"
+msgstr "Choose a folder"
+
+msgid "Choose an account"
+msgstr "Choose an account"
+
+msgid ""
+"Choose how you would like your links to appear when you create them. "
+"rStyle.me is our typical link, bit.ly is a link shortener if you prefer to "
+"mask your rstyle.me links, and t.cn is the link shortener for influencers "
+"whose primary readership is in China."
+msgstr ""
+"Choose how you would like your links to appear when you create them. "
+"rStyle.me is our typical link, bit.ly is a link shortener if you prefer to "
+"mask your rstyle.me links, and t.cn is the link shortener for influencers "
+"whose primary readership is in China."
+
+msgid "Choose One"
+msgstr "Choose One"
+
+msgid "City"
+msgstr "City"
+
+msgid "Clean editorial design"
+msgstr "Clean editorial design"
+
+msgid "clear"
+msgstr "clear"
+
+msgid ""
+"Click “Select files” to open the media picker and choose image/video files "
+"from your device. On a desktop, you can drag and drop them into the upload "
+"area."
+msgstr ""
+"Click “Select files” to open the media picker and choose image/video files "
+"from your device. On a desktop, you can drag and drop them into the upload "
+"area."
+
+msgid "Click for more info"
+msgstr "Click for more info"
+
+msgid ""
+"Clicking the change password button will send an email with a link to update"
+" your password."
+msgstr ""
+"Clicking the change password button will send an email with a link to update"
+" your password."
+
+msgid "Clicks"
+msgstr "Clicks"
+
+msgid "close"
+msgstr "close"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Close alert"
+msgstr "Close alert"
+
+msgid "Close modal"
+msgstr "Close modal"
+
+msgid "Close popup"
+msgstr "Close popup"
+
+#. Email verification code was resent
+msgid "Code has been resent."
+msgstr "Code has been resent."
+
+msgid "Code verification is not allowed when using social authentication"
+msgstr "Code verification is not allowed when using social authentication"
+
+msgid "Collaborations"
+msgstr "Collaborations"
+
+msgid "Collaborations profile"
+msgstr "Collaborations profile"
+
+msgid "Color Options"
+msgstr "Color Options"
+
+msgid "Commission"
+msgstr "Commission"
+
+msgid "Commission Details"
+msgstr "Commission Details"
+
+msgid "Commission rate"
+msgstr "Commission rate"
+
+msgid "Commission: %{commission}"
+msgstr "Commission: %{commission}"
+
+msgid "Commissions"
+msgstr "Commissions"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Company name (optional)"
+msgstr "Company name (optional)"
+
+msgid "Compared at other retailers"
+msgstr "Compared at other retailers"
+
+msgid "Comparison Chart"
+msgstr "Comparison Chart"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Confirm PayPal email"
+msgstr "Confirm PayPal email"
+
+msgid "Confirm where and how you connect with your followers."
+msgstr "Confirm where and how you connect with your followers."
+
+msgid ""
+"Congratulations! You're officially an LTK Creator. Download the LTK Creator "
+"app to start building your Shop and begin earning from your content."
+msgstr ""
+"Congratulations! You're officially an LTK Creator. Download the LTK Creator "
+"app to start building your Shop and begin earning from your content."
+
+msgid "Connect Instagram"
+msgstr "Connect Instagram"
+
+msgid "Connect Instagram via Facebook"
+msgstr "Connect Instagram via Facebook"
+
+msgid "Connect with Instagram"
+msgstr "Connect with Instagram"
+
+msgid ""
+"Connect with the LTK Team! Send me important marketing updates, exclusive "
+"offers, upcoming events, and more if my application is approved!"
+msgstr ""
+"Connect with the LTK Team! Send me important marketing updates, exclusive "
+"offers, upcoming events, and more if my application is approved!"
+
+msgid ""
+"Connect with the LTK Team! Send me important marketing updates, exclusive "
+"offers, upcoming events, and more!"
+msgstr ""
+"Connect with the LTK Team! Send me important marketing updates, exclusive "
+"offers, upcoming events, and more!"
+
+msgid ""
+"Connect with the LTK Team! Text me important marketing updates, exclusive "
+"offers, upcoming events, and more!"
+msgstr ""
+"Connect with the LTK Team! Text me important marketing updates, exclusive "
+"offers, upcoming events, and more!"
+
+msgid ""
+"Connect with the LTK Team! Text me important updates, exclusive offers, "
+"upcoming events, and more if my application is approved!"
+msgstr ""
+"Connect with the LTK Team! Text me important updates, exclusive offers, "
+"upcoming events, and more if my application is approved!"
+
+msgid "Connect your Instagram"
+msgstr "Connect your Instagram"
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "Connecting helps us confirm your eligibility faster"
+msgstr "Connecting helps us confirm your eligibility faster"
+
+msgid "Connection failed"
+msgstr "Connection failed"
+
+msgid "Contact us"
+msgstr "Contact us"
+
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgid "Content category is required"
+msgstr "Content category is required"
+
+msgid ""
+"Content highlighting the brands and products that you love and use, posted "
+"regularly (our ideal Creator applicant posts content daily!)"
+msgstr ""
+"Content highlighting the brands and products that you love and use, posted "
+"regularly (our ideal Creator applicant posts content daily!)"
+
+msgid "Content planning hub"
+msgstr "Content planning hub"
+
+#. Confirm you want to leave the page
+#. Continue to next step
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Continue to meta to disconnect"
+msgstr "Continue to meta to disconnect"
+
+msgid "Continue to web"
+msgstr "Continue to web"
+
+msgid "Continue to Website"
+msgstr "Continue to Website"
+
+msgid "Contributor"
+msgstr "Contributor"
+
+msgid "Contributor management"
+msgstr "Contributor management"
+
+msgid ""
+"Contributors are given access to your account based on the %{ access level }"
+" you define."
+msgstr ""
+"Contributors are given access to your account based on the %{ access level }"
+" you define."
+
+msgid "Cookie Policy"
+msgstr "Cookie Policy"
+
+msgid "copied"
+msgstr "copied"
+
+msgid "Copied"
+msgstr "Copied"
+
+msgid "Copied!"
+msgstr "Copied!"
+
+msgid "Copy Code"
+msgstr "Copy Code"
+
+msgid "copy link"
+msgstr "copy link"
+
+msgid "Copy link"
+msgstr "Copy link"
+
+msgid "Copy Link"
+msgstr "Copy Link"
+
+#. Action text for copying a post link
+msgid "Copy post link"
+msgstr "Copy post link"
+
+#. Accessibility label for copying a post link
+msgid "Copy Post Link"
+msgstr "Copy Post Link"
+
+msgid "Could not validate your Shop name. Please try again."
+msgstr "Could not validate your Shop name. Please try again."
+
+msgid "Country of residency"
+msgstr "Country of residency"
+
+msgid "Cover"
+msgstr "Cover"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Create a Post"
+msgstr "Create a Post"
+
+msgid "create folder"
+msgstr "create folder"
+
+msgid "Create new"
+msgstr "Create new"
+
+msgid "Create post"
+msgstr "Create post"
+
+msgid "Create Post"
+msgstr "Create Post"
+
+msgid ""
+"Create, publish and promote your content, linking to millions of products "
+"from one location."
+msgstr ""
+"Create, publish and promote your content, linking to millions of products "
+"from one location."
+
+msgid "Creator App in App Store"
+msgstr "Creator App in App Store"
+
+msgid "Creator Terms of Service"
+msgstr "Creator Terms of Service"
+
+msgid "Creator/Influencer End User License and Terms of Service Agreement"
+msgstr "Creator/Influencer End User License and Terms of Service Agreement"
+
+msgid "Creator/Influencer Privacy Policy"
+msgstr "Creator/Influencer Privacy Policy"
+
+msgid "Curating and Publishing Posts"
+msgstr "Curating and Publishing Posts"
+
+msgid "Current period"
+msgstr "Current period"
+
+msgid ""
+"Currently, the Analytics and Earnings pages serve slightly different "
+"purposes. The Analytics page shows the net performance of sales made during "
+"the selected time period. Use this page to check how your business did in a "
+"selected time period. The Top Line Commission metric includes all sales, and"
+" returns associated with those sales, regardless of when the return was "
+"posted by the retailer for the specific period."
+msgstr ""
+"Currently, the Analytics and Earnings pages serve slightly different "
+"purposes. The Analytics page shows the net performance of sales made during "
+"the selected time period. Use this page to check how your business did in a "
+"selected time period. The Top Line Commission metric includes all sales, and"
+" returns associated with those sales, regardless of when the return was "
+"posted by the retailer for the specific period."
+
+#. image size: custom size
+msgid "Custom size"
+msgstr "Custom size"
+
+msgid "Daily"
+msgstr "Daily"
+
+msgid "Data reflects UTC"
+msgstr "Data reflects UTC"
+
+msgid "Date & Time"
+msgstr "Date & Time"
+
+msgid "Date created - newest"
+msgstr "Date created - newest"
+
+msgid "Date Published"
+msgstr "Date Published"
+
+#. Delete the post
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete Draft"
+msgstr "Delete Draft"
+
+msgid "Delete Drafts"
+msgstr "Delete Drafts"
+
+msgid "Delete folder"
+msgstr "Delete folder"
+
+msgid "Delete Folder"
+msgstr "Delete Folder"
+
+#. Asking users if they want to delete draft or scheduled post
+msgid "Delete post"
+msgstr "Delete post"
+
+msgid "Delete Post"
+msgstr "Delete Post"
+
+msgid "Delete Posts"
+msgstr "Delete Posts"
+
+msgid "Delete widget"
+msgstr "Delete widget"
+
+msgid "Delete Widget"
+msgstr "Delete Widget"
+
+msgid "Delete your data and account"
+msgstr "Delete your data and account"
+
+msgid "Deleting Draft(s)..."
+msgstr "Deleting Draft(s)..."
+
+msgid "Describe your body shape in one word"
+msgstr "Describe your body shape in one word"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Deselect all"
+msgstr "Deselect all"
+
+#. Discard post details and leave page
+msgid "Discard"
+msgstr "Discard"
+
+#. Asking users if they want to discard their work or to save
+msgid "Discard post?"
+msgstr "Discard post?"
+
+msgid "Discard your changes?"
+msgstr "Discard your changes?"
+
+msgid "Dismiss"
+msgstr "Dismiss"
+
+msgid "Display currency"
+msgstr "Display currency"
+
+msgid "Display URL"
+msgstr "Display URL"
+
+msgid "DIY"
+msgstr "DIY"
+
+msgid "Do Not Sell"
+msgstr "Do Not Sell"
+
+msgid "Do you have an Instagram Creator or Instagram Business Account?"
+msgstr "Do you have an Instagram Creator or Instagram Business Account?"
+
+msgid ""
+"Do you have the necessary rights? By continuing, you confirm that you are "
+"authorized to post all content on LTK. If you don't have a license to use "
+"any music on LTK, mute the audio on that video file."
+msgstr ""
+"Do you have the necessary rights? By continuing, you confirm that you are "
+"authorized to post all content on LTK. If you don't have a license to use "
+"any music on LTK, mute the audio on that video file."
+
+msgid "Do you want to save your changes?"
+msgstr "Do you want to save your changes?"
+
+msgid ""
+"Don't have what's required for a successful account connection? %{ "
+"enterManually }"
+msgstr ""
+"Don't have what's required for a successful account connection? %{ "
+"enterManually }"
+
+#. Don't see verification code?
+msgid "Don't see a code?"
+msgstr "Don't see a code?"
+
+msgid ""
+"Don't stress, you can apply again as early as 30 days. Check out our tips on"
+" how to prepare your social media now and reapply when you're ready"
+msgstr ""
+"Don't stress, you can apply again as early as 30 days. Check out our tips on"
+" how to prepare your social media now and reapply when you're ready"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Download Now"
+msgstr "Download Now"
+
+msgid "Download on Google Play"
+msgstr "Download on Google Play"
+
+msgid "Download on the App Store"
+msgstr "Download on the App Store"
+
+msgid "Download the App"
+msgstr "Download the App"
+
+msgid "Download the App %{ lineBreak } to post to your Shop!"
+msgstr "Download the App %{ lineBreak } to post to your Shop!"
+
+msgid ""
+"Download the Chrome extension now to start using LTK's Product Link. Please "
+"note, the extension is only compatible with Google Chrome and cannot be "
+"installed as a Bookmark on alternative browsers."
+msgstr ""
+"Download the Chrome extension now to start using LTK's Product Link. Please "
+"note, the extension is only compatible with Google Chrome and cannot be "
+"installed as a Bookmark on alternative browsers."
+
+msgid "Download the Creator App"
+msgstr "Download the Creator App"
+
+msgid "Download the LTK Creator App"
+msgstr "Download the LTK Creator App"
+
+msgid "Draft"
+msgstr "Draft"
+
+msgid "Draft not saved"
+msgstr "Draft not saved"
+
+msgid "Draft saved"
+msgstr "Draft saved"
+
+msgid "Draft Saved!"
+msgstr "Draft Saved!"
+
+msgid "Draft(s) Deleted"
+msgstr "Draft(s) Deleted"
+
+msgid "Drafted"
+msgstr "Drafted"
+
+#. Pretext for draft's date
+msgid "Drafted on"
+msgstr "Drafted on"
+
+msgid "Drafts"
+msgstr "Drafts"
+
+msgid ""
+"Drive more sales by selecting products that exactly match this LTK post, and"
+" then reorder as desired."
+msgstr ""
+"Drive more sales by selecting products that exactly match this LTK post, and"
+" then reorder as desired."
+
+msgid "Earnings"
+msgstr "Earnings"
+
+msgid "edit"
+msgstr "edit"
+
+#. Edit post media (images and videos)
+msgid "Edit"
+msgstr "Edit"
+
+#. Accessibility label for editing a draft post
+msgid "Edit Draft Post"
+msgstr "Edit Draft Post"
+
+msgid "Edit photo"
+msgstr "Edit photo"
+
+msgid "Edit Photo"
+msgstr "Edit Photo"
+
+#. Action text for editing a post
+msgid "Edit post"
+msgstr "Edit post"
+
+#. Accessibility label for editing a scheduled post
+msgid "Edit Scheduled Post"
+msgstr "Edit Scheduled Post"
+
+msgid "Edit this post in app to tag products and earn potential commission."
+msgstr "Edit this post in app to tag products and earn potential commission."
+
+msgid "Edit this review in the LTK Creator app"
+msgstr "Edit this review in the LTK Creator app"
+
+msgid "Edit Video"
+msgstr "Edit Video"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "email address"
+msgstr "email address"
+
+msgid "Email address"
+msgstr "Email address"
+
+msgid "Email address missmatch"
+msgstr "Email address missmatch"
+
+msgid "Email change confirmed."
+msgstr "Email change confirmed."
+
+msgid "Email is required"
+msgstr "Email is required"
+
+msgid "Email must be valid"
+msgstr "Email must be valid"
+
+msgid "Email sent"
+msgstr "Email sent"
+
+msgid ""
+"Engage your community on LTK by posting any type of content, even if it "
+"doesn't feature products."
+msgstr ""
+"Engage your community on LTK by posting any type of content, even if it "
+"doesn't feature products."
+
+msgid "Enter the 6 digit code*"
+msgstr "Enter the 6 digit code*"
+
+#. Verification code was sent to user's email
+msgid "Enter the 6-digit verification code we sent to"
+msgstr "Enter the 6-digit verification code we sent to"
+
+msgid "Enter your email"
+msgstr "Enter your email"
+
+msgid "Enter your handle manually"
+msgstr "Enter your handle manually"
+
+msgid "Enter your Instagram handle"
+msgstr "Enter your Instagram handle"
+
+msgid "Error connecting with Instagram. Please try again."
+msgstr "Error connecting with Instagram. Please try again."
+
+msgid ""
+"Error loading exchange rates, prices will display in their original currency"
+msgstr ""
+"Error loading exchange rates, prices will display in their original currency"
+
+msgid ""
+"Error loading information, please try again. If issue persists, please "
+"contact support"
+msgstr ""
+"Error loading information, please try again. If issue persists, please "
+"contact support"
+
+msgid ""
+"Error loading referral information. Please enter your information manually."
+msgstr ""
+"Error loading referral information. Please enter your information manually."
+
+msgid "Error loading user information from creator account service"
+msgstr "Error loading user information from creator account service"
+
+msgid "error, please try again"
+msgstr "error, please try again"
+
+msgid "est. commission"
+msgstr "est. commission"
+
+msgid "Est. Commission"
+msgstr "Est. Commission"
+
+msgid "Estimated"
+msgstr "Estimated"
+
+msgid "Estimated commission: %{estCommission}"
+msgstr "Estimated commission: %{estCommission}"
+
+msgid "Estimated: %{estCommission}"
+msgstr "Estimated: %{estCommission}"
+
+msgid "Every Few Months"
+msgstr "Every Few Months"
+
+msgid "Exact products"
+msgstr "Exact products"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Family"
+msgstr "Family"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "FAQ & Tech support"
+msgstr "FAQ & Tech support"
+
+msgid "Fashion"
+msgstr "Fashion"
+
+msgid "Filter by:"
+msgstr "Filter by:"
+
+msgid "Filters:"
+msgstr "Filters:"
+
+msgid "Finish"
+msgstr "Finish"
+
+msgid "first name"
+msgstr "first name"
+
+msgid "First name"
+msgstr "First name"
+
+msgid "First name is required"
+msgstr "First name is required"
+
+msgid "First things first–please agree to the terms."
+msgstr "First things first–please agree to the terms."
+
+msgid "Fit"
+msgstr "Fit"
+
+msgid "Flip image"
+msgstr "Flip image"
+
+msgid "Folder added!"
+msgstr "Folder added!"
+
+msgid "Folder deleted!"
+msgstr "Folder deleted!"
+
+msgid "Folder name"
+msgstr "Folder name"
+
+msgid "Folder results"
+msgstr "Folder results"
+
+msgid "Folder updated!"
+msgstr "Folder updated!"
+
+msgid "Follow us"
+msgstr "Follow us"
+
+msgid "Food"
+msgstr "Food"
+
+msgid "For more info on access levels, visit %{ faqAndTechSupport }."
+msgstr "For more info on access levels, visit %{ faqAndTechSupport }."
+
+msgid ""
+"For support purposes, your phone number is now required. You will need to "
+"add your phone number to make any updates to your account details."
+msgstr ""
+"For support purposes, your phone number is now required. You will need to "
+"add your phone number to make any updates to your account details."
+
+msgid "Freeform"
+msgstr "Freeform"
+
+msgid "From*"
+msgstr "From*"
+
+msgid "Full name"
+msgstr "Full name"
+
+msgid "Get Help"
+msgstr "Get Help"
+
+msgid "Get Link"
+msgstr "Get Link"
+
+#. Getting started with LTK creator
+msgid "Get started"
+msgstr "Get started"
+
+msgid ""
+"Get the scoop on the latest updates or features heading to the LTK apps. As "
+"well as invites to exclusive webinars and in-person events!"
+msgstr ""
+"Get the scoop on the latest updates or features heading to the LTK apps. As "
+"well as invites to exclusive webinars and in-person events!"
+
+#. Getting started with LTK creator
+msgid "Getting Started"
+msgstr "Getting Started"
+
+msgid "Good Afternoon!"
+msgstr "Good Afternoon!"
+
+msgid "Good Evening!"
+msgstr "Good Evening!"
+
+msgid "Good Morning!"
+msgstr "Good Morning!"
+
+msgid "Good news, you can now reapply to become an LTK Creator!"
+msgstr "Good news, you can now reapply to become an LTK Creator!"
+
+msgid "Got it"
+msgstr "Got it"
+
+msgid "Got it!"
+msgstr "Got it!"
+
+msgid "Group URL"
+msgstr "Group URL"
+
+#. tips for making more earnings/sales
+msgid "Grow your earnings"
+msgstr "Grow your earnings"
+
+msgid "Have a friend who belongs on LTK?"
+msgstr "Have a friend who belongs on LTK?"
+
+msgid "Have you ever gotten paid for content you've posted or linked?"
+msgstr "Have you ever gotten paid for content you've posted or linked?"
+
+msgid ""
+"Heads up! Updating will change this widget anywhere it is currently active. "
+"Changes may take up to 15 minutes to occur. Do you want to continue?"
+msgstr ""
+"Heads up! Updating will change this widget anywhere it is currently active. "
+"Changes may take up to 15 minutes to occur. Do you want to continue?"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "Help center"
+msgstr "Help center"
+
+msgid "Help Center"
+msgstr "Help Center"
+
+msgid ""
+"Help us learn more about you and your audience by sharing all of your social"
+" channels."
+msgstr ""
+"Help us learn more about you and your audience by sharing all of your social"
+" channels."
+
+msgid "High Commission Product"
+msgstr "High Commission Product"
+
+msgid "Home + Interior"
+msgstr "Home + Interior"
+
+msgid "Hotspots"
+msgstr "Hotspots"
+
+msgid "Hours"
+msgstr "Hours"
+
+msgid "How often do you get paid for content you've posted or linked?"
+msgstr "How often do you get paid for content you've posted or linked?"
+
+msgid "How often do you post to your primary social media account?"
+msgstr "How often do you post to your primary social media account?"
+
+msgid "I Agree"
+msgstr "I Agree"
+
+msgid "I would like to sign up to receive SMS marketing messages and updates."
+msgstr ""
+"I would like to sign up to receive SMS marketing messages and updates."
+
+msgid "I'd like to opt-out of all emails at this time."
+msgstr "I'd like to opt-out of all emails at this time."
+
+msgid "Icons"
+msgstr "Icons"
+
+msgid "If you exit now, you will lose any changes you’ve made."
+msgstr "If you exit now, you will lose any changes you’ve made."
+
+msgid ""
+"If you know someone we should know, please fill out the information below "
+"with their name and email address to get the ball rolling!"
+msgstr ""
+"If you know someone we should know, please fill out the information below "
+"with their name and email address to get the ball rolling!"
+
+msgid "If you leave, your edits won't be saved."
+msgstr "If you leave, your edits won't be saved."
+
+msgid ""
+"If you need assistance with this widget on Squarespace, please visit the "
+"Squarespace Help Center."
+msgstr ""
+"If you need assistance with this widget on Squarespace, please visit the "
+"Squarespace Help Center."
+
+msgid ""
+"If you need further assistance or have any questions, please visit our <a "
+"href=\"https://help.rewardstyle.com/hc/en-us\">Help Center</a> or <a "
+"href=\"https://help.rewardstyle.com/hc/en-us/requests/new\">Submit a "
+"request</a>."
+msgstr ""
+"If you need further assistance or have any questions, please visit our <a "
+"href=\"https://help.rewardstyle.com/hc/en-us\">Help Center</a> or <a "
+"href=\"https://help.rewardstyle.com/hc/en-us/requests/new\">Submit a "
+"request</a>."
+
+msgid ""
+"If you need further assistance or have any questions, please visit our Help "
+"Center or Submit a request."
+msgstr ""
+"If you need further assistance or have any questions, please visit our Help "
+"Center or Submit a request."
+
+msgid ""
+"If you're uploading a video file, make sure you have the rights to the "
+"audio. If you don’t have the rights to the audio, click the control to mute "
+"the sound on that video file."
+msgstr ""
+"If you're uploading a video file, make sure you have the rights to the "
+"audio. If you don’t have the rights to the audio, click the control to mute "
+"the sound on that video file."
+
+msgid ""
+"Image requirements: Image files must be JPEG format, with a maximum height "
+"and width of 7680 pixels, and an aspect ratio between 9:19 and 19:9."
+msgstr ""
+"Image requirements: Image files must be JPEG format, with a maximum height "
+"and width of 7680 pixels, and an aspect ratio between 9:19 and 19:9."
+
+msgid ""
+"In order to opt-in, please select the subscription groups you want to "
+"receive updates from."
+msgstr ""
+"In order to opt-in, please select the subscription groups you want to "
+"receive updates from."
+
+msgid ""
+"Include details about you, where you're located, and the content you "
+"share–for example, everyday looks, deals, home decor, or beauty tutorials."
+msgstr ""
+"Include details about you, where you're located, and the content you "
+"share–for example, everyday looks, deals, home decor, or beauty tutorials."
+
+msgid ""
+"Includes strategies and insights to help you grow your shop! Also included "
+"are your performance metrics and steps to help you optimize!"
+msgstr ""
+"Includes strategies and insights to help you grow your shop! Also included "
+"are your performance metrics and steps to help you optimize!"
+
+msgid ""
+"Includes updates from LTK Exclusive Sales, Weekly Trends, & Brand Alerts. "
+"Don't miss out on updates from Team LTK on what's trending along with sales,"
+" commission increase alerts, and more from brands your followers love."
+msgstr ""
+"Includes updates from LTK Exclusive Sales, Weekly Trends, & Brand Alerts. "
+"Don't miss out on updates from Team LTK on what's trending along with sales,"
+" commission increase alerts, and more from brands your followers love."
+
+msgid "Insights"
+msgstr "Insights"
+
+msgid ""
+"Instagram has the above requirements for a successful account connection"
+msgstr ""
+"Instagram has the above requirements for a successful account connection"
+
+msgid "Install now"
+msgstr "Install now"
+
+msgid "Install the Wordpress plug-in!"
+msgstr "Install the Wordpress plug-in!"
+
+msgid ""
+"Introducing our new Android posting experience with a new layout and an "
+"improved flow that streamlines your posting."
+msgstr ""
+"Introducing our new Android posting experience with a new layout and an "
+"improved flow that streamlines your posting."
+
+msgid "Invalid code"
+msgstr "Invalid code"
+
+msgid "Invisible hotspots"
+msgstr "Invisible hotspots"
+
+msgid "iOS Creators"
+msgstr "iOS Creators"
+
+msgid "Is your Instagram account linked to a Facebook page?"
+msgstr "Is your Instagram account linked to a Facebook page?"
+
+msgid "Items Sold"
+msgstr "Items Sold"
+
+msgid "Items Sold Conversion"
+msgstr "Items Sold Conversion"
+
+msgid "JPG, MOV and MP4, maximum 10 files"
+msgstr "JPG, MOV and MP4, maximum 10 files"
+
+msgid "JPG, MOV and MP4, maximum 10 files per upload"
+msgstr "JPG, MOV and MP4, maximum 10 files per upload"
+
+msgid "Keep the browser tab open until uploading completes."
+msgstr "Keep the browser tab open until uploading completes."
+
+msgid "landscape"
+msgstr "landscape"
+
+msgid "Language"
+msgstr "Language"
+
+#. image size: large
+msgid "Large"
+msgstr "Large"
+
+msgid "last name"
+msgstr "last name"
+
+msgid "Last name"
+msgstr "Last name"
+
+msgid "Last name is required"
+msgstr "Last name is required"
+
+msgid "Last updated: %{date}"
+msgstr "Last updated: %{date}"
+
+#. Learn more about being an LTK Creator
+msgid "Learn more"
+msgstr "Learn more"
+
+#. Learn more about being an LTK Creator
+msgid "Learn More"
+msgstr "Learn More"
+
+msgid "Learn More About LTK Creator"
+msgstr "Learn More About LTK Creator"
+
+msgid "Learn More about our application process"
+msgstr "Learn More about our application process"
+
+msgid "Leave page"
+msgstr "Leave page"
+
+msgid "Legal"
+msgstr "Legal"
+
+msgid "Let shoppers know about you and your style."
+msgstr "Let shoppers know about you and your style."
+
+msgid "Let us know a few details so you can start earning with LTK."
+msgstr "Let us know a few details so you can start earning with LTK."
+
+msgid "Level up your search game"
+msgstr "Level up your search game"
+
+msgid "LIKEtoKNOW.it Posts"
+msgstr "LIKEtoKNOW.it Posts"
+
+#. Short link setting header
+msgid "Linking"
+msgstr "Linking"
+
+msgid "Links Published"
+msgstr "Links Published"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Log back in"
+msgstr "Log back in"
+
+msgid "Log in"
+msgstr "Log in"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Log Out"
+msgstr "Log Out"
+
+msgid ""
+"Looks like you don't have access to this shop. Please contact the Shop owner"
+" to provide you with access in order to use the Bulk Media Upload Tool."
+msgstr ""
+"Looks like you don't have access to this shop. Please contact the Shop owner"
+" to provide you with access in order to use the Bulk Media Upload Tool."
+
+msgid ""
+"Looks like you have an existing LTK Shopper account. Apply using this "
+"account?"
+msgstr ""
+"Looks like you have an existing LTK Shopper account. Apply using this "
+"account?"
+
+msgid "Low stock"
+msgstr "Low stock"
+
+msgid "LTK 1:1 Creator Success or Team Member Communication"
+msgstr "LTK 1:1 Creator Success or Team Member Communication"
+
+msgid "LTK AI"
+msgstr "LTK AI"
+
+msgid "LTK Confidential Information"
+msgstr "LTK Confidential Information"
+
+msgid "LTK Creator SMS Program Terms And Conditions"
+msgstr "LTK Creator SMS Program Terms And Conditions"
+
+msgid "LTK Product Link"
+msgstr "LTK Product Link"
+
+msgid ""
+"LTK provides a bookmarklet that allows you to create commissionable links, "
+"save favorites, and share products directly from a brand's website."
+msgstr ""
+"LTK provides a bookmarklet that allows you to create commissionable links, "
+"save favorites, and share products directly from a brand's website."
+
+msgid "LTK Shop name"
+msgstr "LTK Shop name"
+
+msgid ""
+"LTK's Product Link tool is a simple extension allowing Creators to save and "
+"share products, using paid links, directly from brand websites from their "
+"desktop devices. With Product Links, you can save products to your folders "
+"on web and in the LTK Creator app to feature later on your LTK Shop. Plus, "
+"you can share your favorite links directly with shoppers! %{ learnMore }"
+msgstr ""
+"LTK's Product Link tool is a simple extension allowing Creators to save and "
+"share products, using paid links, directly from brand websites from their "
+"desktop devices. With Product Links, you can save products to your folders "
+"on web and in the LTK Creator app to feature later on your LTK Shop. Plus, "
+"you can share your favorite links directly with shoppers! %{ learnMore }"
+
+msgid ""
+"Make sure you have permission to post all audio on LTK. If you don’t, tap "
+"edit to mute "
+msgstr ""
+"Make sure you have permission to post all audio on LTK. If you don’t, tap "
+"edit to mute "
+
+msgid "Matching folders"
+msgstr "Matching folders"
+
+msgid "Max Character limit reached"
+msgstr "Max Character limit reached"
+
+msgid "Maximum of 3,000 rows per export"
+msgstr "Maximum of 3,000 rows per export"
+
+#. image size: medium
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Mens"
+msgstr "Mens"
+
+msgid "Message*"
+msgstr "Message*"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Metrics"
+msgstr "Metrics"
+
+msgid "Minutes"
+msgstr "Minutes"
+
+msgid "Money Spot type *"
+msgstr "Money Spot type *"
+
+msgid "Monthly"
+msgstr "Monthly"
+
+msgid "More options"
+msgstr "More options"
+
+msgid "Most Popular"
+msgstr "Most Popular"
+
+msgid "Multiple times per day"
+msgstr "Multiple times per day"
+
+msgid "muted"
+msgstr "muted"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "My collaborations"
+msgstr "My collaborations"
+
+msgid "My folders"
+msgstr "My folders"
+
+msgid "My Folders"
+msgstr "My Folders"
+
+msgid "My folders updated"
+msgstr "My folders updated"
+
+msgid "My LTK Shops"
+msgstr "My LTK Shops"
+
+msgid "My product review"
+msgstr "My product review"
+
+msgid "My Strategy"
+msgstr "My Strategy"
+
+msgid "Name is required"
+msgstr "Name is required"
+
+msgid "Name of the organization used for conducting business"
+msgstr "Name of the organization used for conducting business"
+
+msgid "Need help using Squarespace?"
+msgstr "Need help using Squarespace?"
+
+msgid "Net Commission"
+msgstr "Net Commission"
+
+msgid "New & improved search!"
+msgstr "New & improved search!"
+
+msgid "New brands on LTK"
+msgstr "New brands on LTK"
+
+msgid "New LTK features"
+msgstr "New LTK features"
+
+msgid "Newsletter code"
+msgstr "Newsletter code"
+
+msgid "Newsroom"
+msgstr "Newsroom"
+
+msgid "next"
+msgstr "next"
+
+msgid "Next"
+msgstr "Next"
+
+msgid ""
+"Next, select your site platform. If you can't find it, select \"other.\" "
+"Note: if your site is hosted on Wordpress.org, you'll have to install a "
+"plugin to use LTK widgets. Wordpress.com is not currently supported."
+msgstr ""
+"Next, select your site platform. If you can't find it, select \"other.\" "
+"Note: if your site is hosted on Wordpress.org, you'll have to install a "
+"plugin to use LTK widgets. Wordpress.com is not currently supported."
+
+msgid "No"
+msgstr "No"
+
+msgid "No data available"
+msgstr "No data available"
+
+msgid "No folders added."
+msgstr "No folders added."
+
+msgid "No images found"
+msgstr "No images found"
+
+msgid "No language found."
+msgstr "No language found."
+
+msgid ""
+"No matching products yet. Get started by tapping which products match your "
+"post."
+msgstr ""
+"No matching products yet. Get started by tapping which products match your "
+"post."
+
+msgid "No Products Added."
+msgstr "No Products Added."
+
+msgid "No products found"
+msgstr "No products found"
+
+msgid "No products selected"
+msgstr "No products selected"
+
+msgid "No products tagged"
+msgstr "No products tagged"
+
+msgid "No results found"
+msgstr "No results found"
+
+msgid "Not Muted"
+msgstr "Not Muted"
+
+msgid ""
+"Note: In the Beta tool, you will not be able to edit the images or videos on"
+" drafts that were uploaded via the bulk uploader."
+msgstr ""
+"Note: In the Beta tool, you will not be able to edit the images or videos on"
+" drafts that were uploaded via the bulk uploader."
+
+msgid "of"
+msgstr "of"
+
+msgid "Oh no!"
+msgstr "Oh no!"
+
+msgid "Oh no! Something went wrong. Please try again later."
+msgstr "Oh no! Something went wrong. Please try again later."
+
+msgid ""
+"Oh no! We've encountered an error while trying to save your profile photo. "
+"Please try again later with the mobile application."
+msgstr ""
+"Oh no! We've encountered an error while trying to save your profile photo. "
+"Please try again later with the mobile application."
+
+msgid "Okay"
+msgstr "Okay"
+
+msgid "On an Android?"
+msgstr "On an Android?"
+
+msgid ""
+"Once all files have been successfully uploaded, close the upload modal to "
+"start uploading more files."
+msgstr ""
+"Once all files have been successfully uploaded, close the upload modal to "
+"start uploading more files."
+
+msgid "Once or Twice a Year"
+msgstr "Once or Twice a Year"
+
+msgid ""
+"Once you’ve selected files to upload, click \"Upload as drafts\" to begin "
+"the upload process. Keep the upload modal or tab open until the upload is "
+"complete, in order to avoid canceling the process."
+msgstr ""
+"Once you’ve selected files to upload, click \"Upload as drafts\" to begin "
+"the upload process. Keep the upload modal or tab open until the upload is "
+"complete, in order to avoid canceling the process."
+
+msgid ""
+"Once you’ve uploaded media as drafts, you must go into the LTK Creator "
+"mobile app to curate and schedule/publish them as posts."
+msgstr ""
+"Once you’ve uploaded media as drafts, you must go into the LTK Creator "
+"mobile app to curate and schedule/publish them as posts."
+
+msgid "One or more files did not upload because it was in the wrong format."
+msgstr "One or more files did not upload because it was in the wrong format."
+
+msgid ""
+"One or more videos did not upload because it was longer than 3 minutes."
+msgstr ""
+"One or more videos did not upload because it was longer than 3 minutes."
+
+msgid "Oops, something went wrong! "
+msgstr "Oops, something went wrong! "
+
+msgid "Oops!"
+msgstr "Oops!"
+
+msgid ""
+"Oops! %{fileName} exceeds the maximum allowed dimensions. Please ensure both"
+" height and width are 7680 pixels or lower."
+msgstr ""
+"Oops! %{fileName} exceeds the maximum allowed dimensions. Please ensure both"
+" height and width are 7680 pixels or lower."
+
+msgid ""
+"Oops! %{fileName} is not in a supported format. Please upload JPEG files for"
+" images."
+msgstr ""
+"Oops! %{fileName} is not in a supported format. Please upload JPEG files for"
+" images."
+
+msgid ""
+"Oops! %{fileName} is not in a supported format. Please upload MP4 or MOV files\n"
+"for videos."
+msgstr ""
+"Oops! %{fileName} is not in a supported format. Please upload MP4 or MOV files\n"
+"for videos."
+
+msgid "Oops! Something went wrong. Please try again."
+msgstr "Oops! Something went wrong. Please try again."
+
+msgid ""
+"Oops! The resolution of %{fileName} exceeds the maximum allowed. Please ensure\n"
+"it's 4k or lower."
+msgstr ""
+"Oops! The resolution of %{fileName} exceeds the maximum allowed. Please ensure\n"
+"it's 4k or lower."
+
+#. Accessibility label for opening the post actions menu
+msgid "Open Post Actions Menu"
+msgstr "Open Post Actions Menu"
+
+msgid "Opt-Out of Text Updates via SMS"
+msgstr "Opt-Out of Text Updates via SMS"
+
+#. This 'OR' statement is used in the context of the following two options:
+#. 'Connecting helps us confirm your eligibility faster' OR 'Enter your
+#. Instagram handle'
+msgid "OR"
+msgstr "OR"
+
+msgid "Order Conversion"
+msgstr "Order Conversion"
+
+msgid "Orders"
+msgstr "Orders"
+
+msgid "original"
+msgstr "original"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Other"
+msgstr "Other"
+
+msgid ""
+"Our rewritten Privacy Statement's changes include processing for comments "
+"and message contents as well as information about cross-border data "
+"transfers."
+msgstr ""
+"Our rewritten Privacy Statement's changes include processing for comments "
+"and message contents as well as information about cross-border data "
+"transfers."
+
+msgid "Patents"
+msgstr "Patents"
+
+msgid "Payment information"
+msgstr "Payment information"
+
+msgid "PayPal email"
+msgstr "PayPal email"
+
+msgid "PayPal emails must match."
+msgstr "PayPal emails must match."
+
+msgid ""
+"PayPal is how LTK will pay you for the commission you earn. We process "
+"payment to the account associated with the PayPal email you provide."
+msgstr ""
+"PayPal is how LTK will pay you for the commission you earn. We process "
+"payment to the account associated with the PayPal email you provide."
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Performance Details"
+msgstr "Performance Details"
+
+msgid "Performer Name"
+msgstr "Performer Name"
+
+msgid "Performers"
+msgstr "Performers"
+
+msgid "period"
+msgstr "period"
+
+msgid "Personal information"
+msgstr "Personal information"
+
+msgid "Personalize your LTK shop"
+msgstr "Personalize your LTK shop"
+
+msgid "Petite"
+msgstr "Petite"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Phone must be valid"
+msgstr "Phone must be valid"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid ""
+"Place the button on your browser's bookmarks bar by dragging the button "
+"below to your bookmarks toolbar."
+msgstr ""
+"Place the button on your browser's bookmarks bar by dragging the button "
+"below to your bookmarks toolbar."
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "Platform details"
+msgstr "Platform details"
+
+msgid "Platform is required"
+msgstr "Platform is required"
+
+msgid "Platform name"
+msgstr "Platform name"
+
+msgid "Please add a unique \"Other\" body shape"
+msgstr "Please add a unique \"Other\" body shape"
+
+msgid "Please enter an \"Other\" body shape"
+msgstr "Please enter an \"Other\" body shape"
+
+msgid ""
+"Please follow the email instructions sent to %{ userEmail } to create a new "
+"password. Please check your spam."
+msgstr ""
+"Please follow the email instructions sent to %{ userEmail } to create a new "
+"password. Please check your spam."
+
+msgid "Please reset your password"
+msgstr "Please reset your password"
+
+msgid "Please select"
+msgstr "Please select"
+
+msgid "Please select no more than three options"
+msgstr "Please select no more than three options"
+
+msgid ""
+"Please take a moment and update your  information to help us maintain your "
+"account according to our terms and conditions."
+msgstr ""
+"Please take a moment and update your  information to help us maintain your "
+"account according to our terms and conditions."
+
+msgid "Please try again later."
+msgstr "Please try again later."
+
+msgid "Plus Size"
+msgstr "Plus Size"
+
+#. Podcast titled More to Say from our co-founder
+msgid "Podcast: More to Say"
+msgstr "Podcast: More to Say"
+
+msgid "portrait"
+msgstr "portrait"
+
+#. Accessibility label for the post actions menu
+msgid "Post Actions Menu"
+msgstr "Post Actions Menu"
+
+msgid "Post not published"
+msgstr "Post not published"
+
+msgid "Post published"
+msgstr "Post published"
+
+msgid "Post published!"
+msgstr "Post published!"
+
+msgid "Post scheduled"
+msgstr "Post scheduled"
+
+msgid "Post scheduled!"
+msgstr "Post scheduled!"
+
+msgid "Posting on Desktop"
+msgstr "Posting on Desktop"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "preferred communication language"
+msgstr "preferred communication language"
+
+msgid "Preferred language"
+msgstr "Preferred language"
+
+msgid "Previous %{ offset }"
+msgstr "Previous %{ offset }"
+
+msgid "Previous Period"
+msgstr "Previous Period"
+
+msgid "Previous Year"
+msgstr "Previous Year"
+
+msgid "Price (high to low)"
+msgstr "Price (high to low)"
+
+msgid "Price (low to high)"
+msgstr "Price (low to high)"
+
+msgid "Primary content type"
+msgstr "Primary content type"
+
+msgid "Primary location is required"
+msgstr "Primary location is required"
+
+msgid "Primary publishing platform"
+msgstr "Primary publishing platform"
+
+msgid "Primary region of influence"
+msgstr "Primary region of influence"
+
+msgid "Primary residence address"
+msgstr "Primary residence address"
+
+msgid "privacy policy"
+msgstr "privacy policy"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Privacy Statement"
+msgstr "Privacy Statement"
+
+msgid "product"
+msgid_plural "products"
+msgstr[0] "product"
+msgstr[1] "products"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Product & LTK Event Updates"
+msgstr "Product & LTK Event Updates"
+
+msgid "Product description"
+msgstr "Product description"
+
+msgid "Product search only"
+msgstr "Product search only"
+
+msgid "Product search only, no commission detail"
+msgstr "Product search only, no commission detail"
+
+msgid "Product URL"
+msgstr "Product URL"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Publish"
+msgstr "Publish"
+
+#. Action text for Publishing a post
+msgid "Publish immediately"
+msgstr "Publish immediately"
+
+#. Accessibility label for publishing a post immediately
+msgid "Publish Post Immediately"
+msgstr "Publish Post Immediately"
+
+msgid "Published size :"
+msgstr "Published size :"
+
+msgid "Published size: %{width} x %{height}"
+msgstr "Published size: %{width} x %{height}"
+
+msgid "Publishing"
+msgstr "Publishing"
+
+msgid "Publishing post..."
+msgstr "Publishing post..."
+
+msgid "Quick actions to take"
+msgstr "Quick actions to take"
+
+msgid "Quit anyway"
+msgstr "Quit anyway"
+
+msgid "Quit uploading"
+msgstr "Quit uploading"
+
+msgid "Read less"
+msgstr "Read less"
+
+msgid "Read more"
+msgstr "Read more"
+
+#. Reapply to being an LTK Creator
+msgid "Reapply"
+msgstr "Reapply"
+
+msgid "reCAPTCHA validation failed. Please try again."
+msgstr "reCAPTCHA validation failed. Please try again."
+
+msgid "Recent Products"
+msgstr "Recent Products"
+
+msgid "Recent Searches"
+msgstr "Recent Searches"
+
+msgid "Recently added"
+msgstr "Recently added"
+
+msgid ""
+"Refer a content creator to the LTK platform and if accepted, both of you "
+"will receive a $25 reward!"
+msgstr ""
+"Refer a content creator to the LTK platform and if accepted, both of you "
+"will receive a $25 reward!"
+
+msgid "Refer a creator"
+msgstr "Refer a creator"
+
+msgid "refer another content creator"
+msgstr "refer another content creator"
+
+msgid "Referrals"
+msgstr "Referrals"
+
+msgid "refresh"
+msgstr "refresh"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Related Searches"
+msgstr "Related Searches"
+
+msgid "Remove"
+msgstr "Remove"
+
+#. Accessibility label for removing a post
+msgid "Remove Draft or Scheduled Post"
+msgstr "Remove Draft or Scheduled Post"
+
+msgid "Remove image or video"
+msgstr "Remove image or video"
+
+msgid "Remove platform"
+msgstr "Remove platform"
+
+msgid "remove product"
+msgstr "remove product"
+
+msgid "Removed from My folders"
+msgstr "Removed from My folders"
+
+msgid "Rename folder"
+msgstr "Rename folder"
+
+msgid "Replace"
+msgstr "Replace"
+
+msgid "required"
+msgstr "required"
+
+msgid "Requirements"
+msgstr "Requirements"
+
+#. Send email verification code again
+msgid "Resend"
+msgstr "Resend"
+
+msgid "Resend email"
+msgstr "Resend email"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Resource Center"
+msgstr "Resource Center"
+
+msgid "Resources"
+msgstr "Resources"
+
+msgid "Rotate image"
+msgstr "Rotate image"
+
+msgid "Sales & Promotions"
+msgstr "Sales & Promotions"
+
+msgid "save"
+msgstr "save"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save & copy link"
+msgstr "Save & copy link"
+
+msgid "Save and Copy link"
+msgstr "Save and Copy link"
+
+msgid "Save changes"
+msgstr "Save changes"
+
+#. Save post details as draft before leave page
+msgid "Save draft"
+msgstr "Save draft"
+
+msgid "Save edits"
+msgstr "Save edits"
+
+msgid "Save to folder"
+msgstr "Save to folder"
+
+msgid "Saved drafts will appear here"
+msgstr "Saved drafts will appear here"
+
+msgid "Saved products"
+msgstr "Saved products"
+
+msgid "Saved to My folders"
+msgstr "Saved to My folders"
+
+msgid "Saving draft..."
+msgstr "Saving draft..."
+
+msgid "Saving..."
+msgstr "Saving..."
+
+msgid "Schedule"
+msgstr "Schedule"
+
+msgid "Schedule post"
+msgstr "Schedule post"
+
+msgid "Scheduled"
+msgstr "Scheduled"
+
+msgid "Scheduled posts will appear here"
+msgstr "Scheduled posts will appear here"
+
+msgid "Scheduling"
+msgstr "Scheduling"
+
+msgid "Scheduling post..."
+msgstr "Scheduling post..."
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Search folders"
+msgstr "Search folders"
+
+msgid "Search Folders"
+msgstr "Search Folders"
+
+msgid "Search Folders by keyword"
+msgstr "Search Folders by keyword"
+
+msgid "Search for LTK Products"
+msgstr "Search for LTK Products"
+
+msgid "Search for products by name, style, color, …"
+msgstr "Search for products by name, style, color, …"
+
+msgid "Search for products by name, style, color, retailer or brand name"
+msgstr "Search for products by name, style, color, retailer or brand name"
+
+msgid ""
+"Search from over 450 million items with results optimized for your earning "
+"potential with new LTK AI Enriched Product Search."
+msgstr ""
+"Search from over 450 million items with results optimized for your earning "
+"potential with new LTK AI Enriched Product Search."
+
+msgid "Search products"
+msgstr "Search products"
+
+msgid "Search Products"
+msgstr "Search Products"
+
+msgid "Search Products by keyword"
+msgstr "Search Products by keyword"
+
+msgid "Search this folder"
+msgstr "Search this folder"
+
+msgid ""
+"Search works best when you combine brand names with a product description. "
+"For example, try searching for ‘Nike women Winflo 9 black’."
+msgstr ""
+"Search works best when you combine brand names with a product description. "
+"For example, try searching for ‘Nike women Winflo 9 black’."
+
+msgid "Searching for"
+msgstr "Searching for"
+
+msgid "Secondary content type"
+msgstr "Secondary content type"
+
+msgid "Secondary publishing platform"
+msgstr "Secondary publishing platform"
+
+msgid "Secondary region of influence"
+msgstr "Secondary region of influence"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select a product"
+msgstr "Select a product"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Select currency"
+msgstr "Select currency"
+
+msgid "Select exact products"
+msgstr "Select exact products"
+
+msgid "Select file"
+msgstr "Select file"
+
+msgid "Select files"
+msgstr "Select files"
+
+msgid "Select font"
+msgstr "Select font"
+
+msgid "Select matching products"
+msgstr "Select matching products"
+
+msgid "Select Platform"
+msgstr "Select Platform"
+
+msgid "Select products below"
+msgstr "Select products below"
+
+msgid "Select the region where you have the largest audience"
+msgstr "Select the region where you have the largest audience"
+
+msgid "Select the region where you have the largest audience."
+msgstr "Select the region where you have the largest audience."
+
+msgid "Select the type of content you post about most often"
+msgstr "Select the type of content you post about most often"
+
+msgid "Select the type of content you post about most often."
+msgstr "Select the type of content you post about most often."
+
+msgid "Select up to 16 products"
+msgstr "Select up to 16 products"
+
+msgid "Select up to 3 below"
+msgstr "Select up to 3 below"
+
+msgid ""
+"Select up to 3 options that best describe your body shape to potential new "
+"shoppers"
+msgstr ""
+"Select up to 3 options that best describe your body shape to potential new "
+"shoppers"
+
+msgid "Select up to 30 products"
+msgstr "Select up to 30 products"
+
+msgid "Select widget size"
+msgstr "Select widget size"
+
+msgid "Selected"
+msgstr "Selected"
+
+#. Send email verification code again
+msgid "Send again"
+msgstr "Send again"
+
+msgid "Send Message"
+msgstr "Send Message"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid ""
+"Share a few details so we can match your content to the right shoppers."
+msgstr ""
+"Share a few details so we can match your content to the right shoppers."
+
+msgid "Share to"
+msgstr "Share to"
+
+msgid "Shop Overseas"
+msgstr "Shop Overseas"
+
+msgid "Shop Strategy & Personalized Performance Insights/Updates"
+msgstr "Shop Strategy & Personalized Performance Insights/Updates"
+
+msgid "Shopper Terms of Service"
+msgstr "Shopper Terms of Service"
+
+msgid "Short linking preference"
+msgstr "Short linking preference"
+
+msgid "Show brand"
+msgstr "Show brand"
+
+msgid "Show commentary"
+msgstr "Show commentary"
+
+msgid "Show icons on hover"
+msgstr "Show icons on hover"
+
+msgid "Show on hover"
+msgstr "Show on hover"
+
+msgid "Show price"
+msgstr "Show price"
+
+msgid "Show social icons"
+msgstr "Show social icons"
+
+msgid "Showing results for"
+msgstr "Showing results for"
+
+msgid "Similar products"
+msgstr "Similar products"
+
+#. image size: small
+msgid "Small"
+msgstr "Small"
+
+msgid "sms terms & conditions"
+msgstr "sms terms & conditions"
+
+msgid "Social handle"
+msgstr "Social handle"
+
+msgid "Social Integration"
+msgstr "Social Integration"
+
+msgid "Social platform info"
+msgstr "Social platform info"
+
+msgid "Sold by"
+msgstr "Sold by"
+
+msgid "Sold by %{retailerName}"
+msgstr "Sold by %{retailerName}"
+
+msgid "Some data is not currently available."
+msgstr "Some data is not currently available."
+
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+msgid "Something went wrong on our end. Please try uploading again later."
+msgstr "Something went wrong on our end. Please try uploading again later."
+
+msgid "Something went wrong. Please try again later"
+msgstr "Something went wrong. Please try again later"
+
+msgid "Something went wrong. Please try again later."
+msgstr "Something went wrong. Please try again later."
+
+msgid "square"
+msgstr "square"
+
+msgid "State"
+msgstr "State"
+
+msgid "Status & outages"
+msgstr "Status & outages"
+
+msgid ""
+"Stay in touch with your team at LTK with personalized messages directly from"
+" your customer success or other LTK Team members."
+msgstr ""
+"Stay in touch with your team at LTK with personalized messages directly from"
+" your customer success or other LTK Team members."
+
+msgid "Stay on this page"
+msgstr "Stay on this page"
+
+msgid "Street Style"
+msgstr "Street Style"
+
+msgid "submit"
+msgstr "submit"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "submit a request"
+msgstr "submit a request"
+
+msgid "Success!"
+msgstr "Success!"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Tag products"
+msgstr "Tag products"
+
+msgid "Tag products to earn potential commission."
+msgstr "Tag products to earn potential commission."
+
+msgid "Tagged products"
+msgstr "Tagged products"
+
+msgid "Tell us about your audience"
+msgstr "Tell us about your audience"
+
+msgid "Tell us about your experience"
+msgstr "Tell us about your experience"
+
+msgid "Tell us about your social channels"
+msgstr "Tell us about your social channels"
+
+msgid "Tell us about yourself"
+msgstr "Tell us about yourself"
+
+msgid "terms of service"
+msgstr "terms of service"
+
+msgid "Terms of service"
+msgstr "Terms of service"
+
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+msgid "Thank You!"
+msgstr "Thank You!"
+
+msgid ""
+"Thanks for applying to LTK Creator! We will review your content and get back"
+" to you as soon as possible."
+msgstr ""
+"Thanks for applying to LTK Creator! We will review your content and get back"
+" to you as soon as possible."
+
+msgid ""
+"Thanks for contacting us! Our team will reach out to you as soon as "
+"possible."
+msgstr ""
+"Thanks for contacting us! Our team will reach out to you as soon as "
+"possible."
+
+msgid "The email you've entered is already associated with an account"
+msgstr "The email you've entered is already associated with an account"
+
+msgid ""
+"The link you followed has expired. Please re-submit your email change "
+"request."
+msgstr ""
+"The link you followed has expired. Please re-submit your email change "
+"request."
+
+msgid ""
+"The selected currency will apply to all users of this account and be "
+"reflected where product price and earnings are visible. Commission payments "
+"are paid out in U.S. dollars."
+msgstr ""
+"The selected currency will apply to all users of this account and be "
+"reflected where product price and earnings are visible. Commission payments "
+"are paid out in U.S. dollars."
+
+msgid ""
+"The updates include but are not limited to creating our Community Guidelines"
+" and incorporating them into the Terms of Service. We have also updated the "
+"global disclosure requirements in line with recent requirements. You must "
+"accept these terms to continue using the LTK platform."
+msgstr ""
+"The updates include but are not limited to creating our Community Guidelines"
+" and incorporating them into the Terms of Service. We have also updated the "
+"global disclosure requirements in line with recent requirements. You must "
+"accept these terms to continue using the LTK platform."
+
+msgid "There are no products in your chosen currency. Please try another."
+msgstr "There are no products in your chosen currency. Please try another."
+
+msgid ""
+"There was an error in your PayPal email. Please confirm that your email "
+"address is valid and try again."
+msgstr ""
+"There was an error in your PayPal email. Please confirm that your email "
+"address is valid and try again."
+
+msgid ""
+"This brand supports variable commissions up to the rates shown below. The "
+"total commission actually paid out may differ depending on the specific "
+"products that were purchased. To view the brand's list of exclusions, check "
+"out the %{link}."
+msgstr ""
+"This brand supports variable commissions up to the rates shown below. The "
+"total commission actually paid out may differ depending on the specific "
+"products that were purchased. To view the brand's list of exclusions, check "
+"out the %{link}."
+
+msgid "This code has expired"
+msgstr "This code has expired"
+
+msgid ""
+"This contributor's access is disabled. Enable user to edit contributor "
+"information."
+msgstr ""
+"This contributor's access is disabled. Enable user to edit contributor "
+"information."
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "This field must be a number between 0 and 1"
+msgstr "This field must be a number between 0 and 1"
+
+msgid "This file is not supported. Please use jpg, jpeg, png, gif, or bmp."
+msgstr "This file is not supported. Please use jpg, jpeg, png, gif, or bmp."
+
+msgid "This Shop name is not available. Please enter a new Shop name."
+msgstr "This Shop name is not available. Please enter a new Shop name."
+
+msgid ""
+"This site is protected by reCAPTCHA and the Google %{ privacy } and %{ terms"
+" } apply."
+msgstr ""
+"This site is protected by reCAPTCHA and the Google %{ privacy } and %{ terms"
+" } apply."
+
+msgid ""
+"This tool is designed to help you bulk upload images and videos as drafts to"
+" your LTK Creator account. From there, you can utilize the LTK Creator App "
+"to curate and schedule/publish them as posts."
+msgstr ""
+"This tool is designed to help you bulk upload images and videos as drafts to"
+" your LTK Creator account. From there, you can utilize the LTK Creator App "
+"to curate and schedule/publish them as posts."
+
+msgid "This will help us determine your eligibility"
+msgstr "This will help us determine your eligibility"
+
+msgid "To add products, select another folder"
+msgstr "To add products, select another folder"
+
+msgid ""
+"To change this address, please %{ submitRequest } through FAQ & Tech "
+"support."
+msgstr ""
+"To change this address, please %{ submitRequest } through FAQ & Tech "
+"support."
+
+msgid ""
+"To change your LTK texts status, unselect the opt-in toggle on this form and"
+" save your changes. You can also reply with STOP to the text you previously "
+"received when you enrolled, or text <b>HELP</b> for additional help."
+msgstr ""
+"To change your LTK texts status, unselect the opt-in toggle on this form and"
+" save your changes. You can also reply with STOP to the text you previously "
+"received when you enrolled, or text <b>HELP</b> for additional help."
+
+msgid ""
+"To continue, please select which account you would like to connect with LTK"
+msgstr ""
+"To continue, please select which account you would like to connect with LTK"
+
+msgid "Toggle mute"
+msgstr "Toggle mute"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Top Performers"
+msgstr "Top Performers"
+
+msgid "Travel"
+msgstr "Travel"
+
+msgid "Trend Charts"
+msgstr "Trend Charts"
+
+msgid "trim"
+msgstr "trim"
+
+msgid "Try again"
+msgstr "Try again"
+
+msgid "Try Again"
+msgstr "Try Again"
+
+msgid ""
+"Try combining brand names and product description to browse from over 450+ "
+"million items with more discovery categories, using the power of LTK AI."
+msgstr ""
+"Try combining brand names and product description to browse from over 450+ "
+"million items with more discovery categories, using the power of LTK AI."
+
+msgid "Try searching for"
+msgstr "Try searching for"
+
+msgid ""
+"Uh-oh! The aspect ratio of %{fileName} is not supported. Please ensure it's "
+"between 9:19 and 19:9."
+msgstr ""
+"Uh-oh! The aspect ratio of %{fileName} is not supported. Please ensure it's "
+"between 9:19 and 19:9."
+
+msgid ""
+"Uh-oh! The duration of %{fileName} exceeds the maximum allowed. Please ensure\n"
+"it's within 3 minutes."
+msgstr ""
+"Uh-oh! The duration of %{fileName} exceeds the maximum allowed. Please ensure\n"
+"it's within 3 minutes."
+
+msgid ""
+"Understanding your experience will help us better support you as a Creator, "
+"if approved."
+msgstr ""
+"Understanding your experience will help us better support you as a Creator, "
+"if approved."
+
+msgid "up to"
+msgstr "up to"
+
+#. label denoting the potential maximum commission percentage received. "up to
+#. 10%"
+msgid "up to %{percent}"
+msgid_plural "up to %{percent}"
+msgstr[0] "up to %{percent}"
+msgstr[1] "up to %{percent}"
+
+#. Confirm you want to update the widget
+msgid "Update Widget"
+msgstr "Update Widget"
+
+msgid "Update your information"
+msgstr "Update your information"
+
+msgid "Updates saved successfully."
+msgstr "Updates saved successfully."
+
+msgid "Upload as drafts"
+msgstr "Upload as drafts"
+
+msgid "Upload error."
+msgstr "Upload error."
+
+msgid "Upload image"
+msgstr "Upload image"
+
+msgid "Upload successful!"
+msgstr "Upload successful!"
+
+msgid "Uploading"
+msgstr "Uploading"
+
+msgid "Uploading..."
+msgstr "Uploading..."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Use a different account"
+msgstr "Use a different account"
+
+msgid "User already exists with this email address"
+msgstr "User already exists with this email address"
+
+msgid "User is enabled?"
+msgstr "User is enabled?"
+
+msgid "User with this email already exists"
+msgstr "User with this email already exists"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Variable commission"
+msgstr "Variable commission"
+
+msgid "Variable Commission"
+msgstr "Variable Commission"
+
+msgid "Variable Commission Rate"
+msgstr "Variable Commission Rate"
+
+msgid "Verify your email"
+msgstr "Verify your email"
+
+msgid ""
+"Video requirements: Video files must be MP4 or MOV format, with a maximum "
+"resolution of 4k, and a maximum length of 3 minutes."
+msgstr ""
+"Video requirements: Video files must be MP4 or MOV format, with a maximum "
+"resolution of 4k, and a maximum length of 3 minutes."
+
+msgid "view"
+msgstr "view"
+
+msgid "View"
+msgstr "View"
+
+msgid "View Post"
+msgstr "View Post"
+
+msgid "View scheduled posts"
+msgstr "View scheduled posts"
+
+#. online education and tools
+msgid "Virtual education"
+msgstr "Virtual education"
+
+msgid "Visit help center"
+msgstr "Visit help center"
+
+msgid "Visit Website"
+msgstr "Visit Website"
+
+msgid ""
+"We encourage you to review both the updated terms and privacy policy. If you"
+" have any questions, reach out to %{ email }."
+msgstr ""
+"We encourage you to review both the updated terms and privacy policy. If you"
+" have any questions, reach out to %{ email }."
+
+msgid ""
+"We noticed you logged in with a temporary password and need you to create a "
+"new password for security purposes."
+msgstr ""
+"We noticed you logged in with a temporary password and need you to create a "
+"new password for security purposes."
+
+msgid "We want to get to know you and your personality better!"
+msgstr "We want to get to know you and your personality better!"
+
+msgid ""
+"We will send you an update once your application has been reviewed. Feel "
+"free to review our tips and insights on becoming an LTK Creator."
+msgstr ""
+"We will send you an update once your application has been reviewed. Feel "
+"free to review our tips and insights on becoming an LTK Creator."
+
+msgid ""
+"We'll check if you have an existing LTK Shopper account to streamline your "
+"application"
+msgstr ""
+"We'll check if you have an existing LTK Shopper account to streamline your "
+"application"
+
+msgid ""
+"We're having difficulties connecting to the server at this time. We'll fix "
+"it as soon as we can. Please try again later."
+msgstr ""
+"We're having difficulties connecting to the server at this time. We'll fix "
+"it as soon as we can. Please try again later."
+
+msgid ""
+"We're having trouble processing your request right now. Please try logging "
+"in again."
+msgstr ""
+"We're having trouble processing your request right now. Please try logging "
+"in again."
+
+msgid ""
+"We're having trouble processing your request right now. Please try logging "
+"out and trying again."
+msgstr ""
+"We're having trouble processing your request right now. Please try logging "
+"out and trying again."
+
+msgid "We're looking for Creators with:"
+msgstr "We're looking for Creators with:"
+
+msgid "We’ve updated our Terms of Service, Privacy Policy, and Cookie Policy"
+msgstr "We’ve updated our Terms of Service, Privacy Policy, and Cookie Policy"
+
+msgid "We’ve upgraded!"
+msgstr "We’ve upgraded!"
+
+msgid "Weekly"
+msgstr "Weekly"
+
+msgid "Welcome back!"
+msgstr "Welcome back!"
+
+msgid ""
+"Welcome to your LTK Creator dashboard. View your insights and resources "
+"below."
+msgstr ""
+"Welcome to your LTK Creator dashboard. View your insights and resources "
+"below."
+
+#. Default message that acts as a fallback, this should never actually be used
+msgid "Welcome!"
+msgstr "Welcome!"
+
+msgid "Wellness"
+msgstr "Wellness"
+
+msgid "What content do you post most often?"
+msgstr "What content do you post most often?"
+
+msgid "What is this tool for?"
+msgstr "What is this tool for?"
+
+msgid "What is your primary audience region?"
+msgstr "What is your primary audience region?"
+
+msgid "What other categories do you post?"
+msgstr "What other categories do you post?"
+
+msgid "What we look for in potential influencers:"
+msgstr "What we look for in potential influencers:"
+
+#. Updates and sale items from brands
+msgid "What's on sale"
+msgstr "What's on sale"
+
+msgid "What's on your mind?"
+msgstr "What's on your mind?"
+
+msgid "When you do, they'll show up here."
+msgstr "When you do, they'll show up here."
+
+msgid ""
+"When you publish a paid link on your site or social channels, consumers will"
+" be directed to the product page. LTK then tracks any consumer purchases for"
+" you."
+msgstr ""
+"When you publish a paid link on your site or social channels, consumers will"
+" be directed to the product page. LTK then tracks any consumer purchases for"
+" you."
+
+msgid "Where are they primarily located?"
+msgstr "Where are they primarily located?"
+
+msgid "Where else are they located?"
+msgstr "Where else are they located?"
+
+msgid "Where else is your audience?"
+msgstr "Where else is your audience?"
+
+msgid "Where is your largest audience?"
+msgstr "Where is your largest audience?"
+
+msgid "Where's your largest social audience?"
+msgstr "Where's your largest social audience?"
+
+msgid "Where's your second largest social audience?"
+msgstr "Where's your second largest social audience?"
+
+msgid "Where's your third largest social audience?"
+msgstr "Where's your third largest social audience?"
+
+msgid "Why are my Earnings and Analytics different?"
+msgstr "Why are my Earnings and Analytics different?"
+
+msgid "Widget size cannot be larger than the original image size "
+msgstr "Widget size cannot be larger than the original image size "
+
+msgid "Widgets are only available on desktop"
+msgstr "Widgets are only available on desktop"
+
+msgid ""
+"With LTK, you will be empowered to grow and optimize your community like "
+"never before by converting your audience into lifelong, loyal Shoppers. Join"
+" our community of top-tier creators and gain access to our network of brands"
+" and shoppers, today!"
+msgstr ""
+"With LTK, you will be empowered to grow and optimize your community like "
+"never before by converting your audience into lifelong, loyal Shoppers. Join"
+" our community of top-tier creators and gain access to our network of brands"
+" and shoppers, today!"
+
+msgid "Write a caption full of keywords to increase your discoverability!"
+msgstr "Write a caption full of keywords to increase your discoverability!"
+
+msgid "year"
+msgstr "year"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Yes use this account"
+msgstr "Yes use this account"
+
+msgid "You are eligible to reapply!"
+msgstr "You are eligible to reapply!"
+
+msgid ""
+"You can change your PayPal email under Account Settings once you've "
+"completed account setup."
+msgstr ""
+"You can change your PayPal email under Account Settings once you've "
+"completed account setup."
+
+msgid "You can now publish posts without tagging products"
+msgstr "You can now publish posts without tagging products"
+
+msgid "You can only describe the \"Other\" body shape using one word"
+msgstr "You can only describe the \"Other\" body shape using one word"
+
+msgid "You can show the price of the products or show them on hover."
+msgstr "You can show the price of the products or show them on hover."
+
+msgid "You can upload a maximum of 10 image/video files per batch."
+msgstr "You can upload a maximum of 10 image/video files per batch."
+
+msgid "You cannot undo this action."
+msgstr "You cannot undo this action."
+
+msgid "You don’t have any drafts saved"
+msgstr "You don’t have any drafts saved"
+
+msgid "You have not added any contributors, yet!"
+msgstr "You have not added any contributors, yet!"
+
+msgid "You have not created any Money Spot widgets."
+msgstr "You have not created any Money Spot widgets."
+
+msgid "You haven't scheduled any posts for this date."
+msgstr "You haven't scheduled any posts for this date."
+
+msgid "You haven’t scheduled any posts"
+msgstr "You haven’t scheduled any posts"
+
+msgid ""
+"You must have an LTK account and LTK Shop set up to use the bulk upload "
+"tool."
+msgstr ""
+"You must have an LTK account and LTK Shop set up to use the bulk upload "
+"tool."
+
+msgid ""
+"You will be able to change this information at any time via the LTK Creator "
+"iOS or LTK Android app."
+msgstr ""
+"You will be able to change this information at any time via the LTK Creator "
+"iOS or LTK Android app."
+
+msgid ""
+"You will need to agree to the updated terms and acknowledge the updated "
+"policies to continue using our services."
+msgstr ""
+"You will need to agree to the updated terms and acknowledge the updated "
+"policies to continue using our services."
+
+msgid ""
+"You're ready to get started. %{ lineBreak } Download the app to start "
+"posting."
+msgstr ""
+"You're ready to get started. %{ lineBreak } Download the app to start "
+"posting."
+
+msgid ""
+"You're ready to get started. %{ lineBreak } Scan the QR code with your "
+"phone's camera to directly download the app!"
+msgstr ""
+"You're ready to get started. %{ lineBreak } Scan the QR code with your "
+"phone's camera to directly download the app!"
+
+msgid "You've been approved!"
+msgstr "You've been approved!"
+
+msgid "Your application has been approved!"
+msgstr "Your application has been approved!"
+
+msgid "Your application has been declined."
+msgstr "Your application has been declined."
+
+
