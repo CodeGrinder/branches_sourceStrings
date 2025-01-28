@@ -78,3 +78,6 @@ msgstr "Your application has been approved!"
 
 msgid "Your application has been declined."
 msgstr "Your application has been declined."
+
+msgid "You cannot undo this action."
+msgstr "You cannot undo this action."
