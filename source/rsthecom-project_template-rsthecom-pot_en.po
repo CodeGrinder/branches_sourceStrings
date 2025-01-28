@@ -82,3 +82,14 @@ msgstr "Your application has been declined."
 msgid "You cannot undo this action."
 msgstr "You cannot undo this action."
 
+msgid "year"
+msgstr "year"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Yes use this account"
+msgstr "Yes use this account"
+
+msgid "You are eligible to reapply!"
+msgstr "You are eligible to reapply!"
