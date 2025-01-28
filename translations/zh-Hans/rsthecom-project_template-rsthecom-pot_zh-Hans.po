@@ -31,19 +31,19 @@ msgid "%{successCount} of %{selectedFiles} uploads complete."
 msgstr ""
 
 msgid "0 results for"
-msgstr ""
+msgstr "0 results for"
 
 msgid "0 Results for"
-msgstr ""
+msgstr "0 Results for"
 
 msgid "0 results matching for"
-msgstr ""
+msgstr "0 results matching for"
 
 msgid "6 digit code is required"
-msgstr ""
+msgstr "6 digit code is required"
 
 msgid "A - Z"
-msgstr ""
+msgstr "A - Z"
 
 msgid "A confirmation email was sent to"
 msgstr ""
