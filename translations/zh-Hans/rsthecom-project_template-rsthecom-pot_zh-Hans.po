@@ -68,10 +68,10 @@ msgid ""
 msgstr ""
 
 msgid "You've been approved!"
-msgstr ""
+msgstr "你已经被批准了！"
 
 msgid "Your application has been approved!"
-msgstr ""
+msgstr "您的申请已获得批准！"
 
 msgid "Your application has been declined."
 msgstr "您的申请已被拒绝。"
