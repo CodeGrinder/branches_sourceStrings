@@ -3185,6 +3185,7 @@ msgstr ""
 "You will be able to change this information at any time via the LTK Creator "
 "iOS or LTK Android app."
 
+
 msgid ""
 "You will need to agree to the updated terms and acknowledge the updated "
 "policies to continue using our services."
@@ -3214,6 +3215,5 @@ msgstr "Your application has been approved!"
 
 msgid "Your application has been declined."
 msgstr "Your application has been declined."
-
 
 
