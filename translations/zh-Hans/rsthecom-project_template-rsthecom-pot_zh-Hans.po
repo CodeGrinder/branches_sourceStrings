@@ -31,19 +31,19 @@ msgid "%{successCount} of %{selectedFiles} uploads complete."
 msgstr ""
 
 msgid "0 results for"
-msgstr "0 个搜索结果"
+msgstr "0 results for"
 
 msgid "0 Results for"
-msgstr "0 个搜索结果"
+msgstr "0 Results for"
 
 msgid "0 results matching for"
-msgstr "0 条结果符合条件"
+msgstr "0 results matching for"
 
 msgid "6 digit code is required"
-msgstr ""
+msgstr "6 digit code is required"
 
 msgid "A - Z"
-msgstr "A-Z"
+msgstr "A - Z"
 
 msgid "A confirmation email was sent to"
 msgstr ""
@@ -75,3 +75,6 @@ msgstr "您的申请已获得批准！"
 
 msgid "Your application has been declined."
 msgstr "您的申请已被拒绝。"
+
+msgid "You cannot undo this action."
+msgstr "您无法撤消此操作。"
