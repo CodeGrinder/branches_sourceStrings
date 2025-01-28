@@ -70,4 +70,3 @@ msgstr ""
 "You're ready to get started. %{ lineBreak } Scan the QR code with your "
 "phone's camera to directly download the app!"
 
-
