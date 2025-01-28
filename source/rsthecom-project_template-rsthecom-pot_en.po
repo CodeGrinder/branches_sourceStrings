@@ -56,3 +56,25 @@ msgstr "A high number of engaged followers on your social media channels."
 msgid "A maximum of 10 files can be added to a post"
 msgstr "A maximum of 10 files can be added to a post"
 
+msgid ""
+"You're ready to get started. %{ lineBreak } Download the app to start "
+"posting."
+msgstr ""
+"You're ready to get started. %{ lineBreak } Download the app to start "
+"posting."
+
+msgid ""
+"You're ready to get started. %{ lineBreak } Scan the QR code with your "
+"phone's camera to directly download the app!"
+msgstr ""
+"You're ready to get started. %{ lineBreak } Scan the QR code with your "
+"phone's camera to directly download the app!"
+
+msgid "You've been approved!"
+msgstr "You've been approved!"
+
+msgid "Your application has been approved!"
+msgstr "Your application has been approved!"
+
+msgid "Your application has been declined."
+msgstr "Your application has been declined."
