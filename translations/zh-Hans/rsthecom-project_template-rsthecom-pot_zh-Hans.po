@@ -43,7 +43,7 @@ msgid "6 digit code is required"
 msgstr ""
 
 msgid "A - Z"
-msgstr ""
+msgstr "A-Z"
 
 msgid "A confirmation email was sent to"
 msgstr ""
