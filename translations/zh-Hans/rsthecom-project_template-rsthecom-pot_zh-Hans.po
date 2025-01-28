@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Carlos Olvera, 2025
+# Transifex Bot <>, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: root\n"
-"Last-Translator: Carlos Olvera, 2025\n"
+"Last-Translator: Transifex Bot <>, 2025\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/colvera/teams/204512/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid " your video."
-msgstr " 你的视频。"
+msgstr ""
 
 msgid ""
 "\" -- \" shows when a brand supports variable commission rates. The total "
@@ -31,19 +31,19 @@ msgid "%{successCount} of %{selectedFiles} uploads complete."
 msgstr ""
 
 msgid "0 results for"
-msgstr ""
+msgstr "0 个搜索结果"
 
 msgid "0 Results for"
-msgstr ""
+msgstr "0 个搜索结果"
 
 msgid "0 results matching for"
-msgstr ""
+msgstr "0 条结果符合条件"
 
 msgid "6 digit code is required"
 msgstr ""
 
 msgid "A - Z"
-msgstr ""
+msgstr "A-Z"
 
 msgid "A confirmation email was sent to"
 msgstr ""
