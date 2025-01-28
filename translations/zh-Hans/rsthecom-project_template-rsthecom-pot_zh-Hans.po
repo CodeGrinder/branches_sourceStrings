@@ -1,0 +1,58 @@
+# 
+# Translators:
+# Carlos Olvera, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: root\n"
+"Last-Translator: Carlos Olvera, 2025\n"
+"Language-Team: Chinese Simplified (https://app.transifex.com/colvera/teams/204512/zh-Hans/)\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " your video."
+msgstr " 你的视频。"
+
+msgid ""
+"\" -- \" shows when a brand supports variable commission rates. The total "
+"commission actually paid out may differ depending on the specific products "
+"that were purchased."
+msgstr ""
+
+msgid "{{ sizeText }}"
+msgstr ""
+
+msgid "{{ updateText }}"
+msgstr ""
+
+msgid "%{successCount} of %{selectedFiles} uploads complete."
+msgstr ""
+
+msgid "0 results for"
+msgstr ""
+
+msgid "0 Results for"
+msgstr ""
+
+msgid "0 results matching for"
+msgstr ""
+
+msgid "6 digit code is required"
+msgstr ""
+
+msgid "A - Z"
+msgstr ""
+
+msgid "A confirmation email was sent to"
+msgstr ""
+
+msgid "A folder with that name already exists"
+msgstr ""
+
+msgid "A high number of engaged followers on your social media channels."
+msgstr ""
+
+msgid "A maximum of 10 files can be added to a post"
+msgstr ""
