@@ -74,4 +74,4 @@ msgid "Your application has been approved!"
 msgstr ""
 
 msgid "Your application has been declined."
-msgstr ""
+msgstr "您的申请已被拒绝。"
