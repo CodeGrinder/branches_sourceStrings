@@ -70,8 +70,6 @@ msgstr ""
 "You're ready to get started. %{ lineBreak } Scan the QR code with your "
 "phone's camera to directly download the app!"
 
-
-
 msgid "You've been approved!"
 msgstr "You've been approved!"
 
@@ -83,3 +81,4 @@ msgstr "Your application has been declined."
 
 msgid "You cannot undo this action."
 msgstr "You cannot undo this action."
+
