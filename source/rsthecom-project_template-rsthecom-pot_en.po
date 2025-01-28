@@ -3184,3 +3184,36 @@ msgid ""
 msgstr ""
 "You will be able to change this information at any time via the LTK Creator "
 "iOS or LTK Android app."
+
+
+msgid ""
+"You will need to agree to the updated terms and acknowledge the updated "
+"policies to continue using our services."
+msgstr ""
+"You will need to agree to the updated terms and acknowledge the updated "
+"policies to continue using our services."
+
+msgid ""
+"You're ready to get started. %{ lineBreak } Download the app to start "
+"posting."
+msgstr ""
+"You're ready to get started. %{ lineBreak } Download the app to start "
+"posting."
+
+msgid ""
+"You're ready to get started. %{ lineBreak } Scan the QR code with your "
+"phone's camera to directly download the app!"
+msgstr ""
+"You're ready to get started. %{ lineBreak } Scan the QR code with your "
+"phone's camera to directly download the app!"
+
+msgid "You've been approved!"
+msgstr "You've been approved!"
+
+msgid "Your application has been approved!"
+msgstr "Your application has been approved!"
+
+msgid "Your application has been declined."
+msgstr "Your application has been declined."
+
+
