@@ -12,12 +12,6 @@ filters:
   translation_files_expression: 'translations/<lang>/Kinaxis_webClient.<lang>.json.pdf'
 
 - filter_type: file
-  file_format: MS_PPTX
-  source_file: source/Kinaxis_webClient.en-US.json
-  source_language: en_US
-  translation_files_expression: 'translations/<lang>/Kinaxis_webClient.<lang>.json.pdf'
-
-- filter_type: file
   file_format: MS_DOCX
   source_file: source/Kinaxis_FY24_[Tiered Supplier Brochure]_Supply Chain_Transformation_for_the_Supplier Network.docx
   source_language: en_US
